@@ -8,4 +8,8 @@ public class test {
 	        System.out.println("rahul" + 10 + 20);  
 	    }  
 
+	    {  
+	        System.out.println(10 + 20 + "rahul");  ////send coomit update 
+	        System.out.println("rahul" + 10 + 20);  
+	    }  
 }
